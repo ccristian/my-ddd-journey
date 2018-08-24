@@ -122,8 +122,8 @@ https://github.com/VaughnVernon/IDDD_Samples
 https://github.com/zkavtaskin/Domain-Driven-Design-Example
 
 # Extras
-https://medium.com/withbetterco/3-useful-concepts-in-domain-driven-design-d6c6d5036ab2
-https://github.com/ddd-by-examples
+- https://medium.com/withbetterco/3-useful-concepts-in-domain-driven-design-d6c6d5036ab2
+- https://github.com/ddd-by-examples
 https://github.com/zkavtaskin/Domain-Driven-Design-Example
 https://blog.scottlogic.com/2018/03/28/domain-driven-design.html
 http://dddsample.sourceforge.net/characterization.html
