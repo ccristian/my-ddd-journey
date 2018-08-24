@@ -86,6 +86,7 @@ https://jimmybogard.com/vertical-slice-architecture/
 - Authentication and Authorization in DDD, José Luis Martínez (8/01/2016)
 https://medium.com/@martinezdelariva/authentication-and-authorization-in-ddd-671f7a5596ac
 
+
 ### REST
 - There is No U in CRUD, James Hood (25/07/2017) [resist the urge to follow the CRUD model for service APIs (use DDD to define your API in terms of domain objects and the business operations]
 http://jlhood.com/there-is-no-u-in-crud/
@@ -119,3 +120,14 @@ https://github.com/citerus/dddsample-core
 https://github.com/VaughnVernon/IDDD_Samples
 - Domain Driven Design Example C#, Zan Kavtaskin
 https://github.com/zkavtaskin/Domain-Driven-Design-Example
+
+# Extras
+https://medium.com/withbetterco/3-useful-concepts-in-domain-driven-design-d6c6d5036ab2
+https://github.com/ddd-by-examples
+https://github.com/zkavtaskin/Domain-Driven-Design-Example
+https://blog.scottlogic.com/2018/03/28/domain-driven-design.html
+http://dddsample.sourceforge.net/characterization.html
+https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/
+https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+https://dzone.com/articles/ddd-part-i-introduction
+http://cqrs.nu/
